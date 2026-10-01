@@ -1,0 +1,78 @@
+
+*{
+    box-sizing: border-box;
+    background-color: #f8f8ef;
+}
+header, footer{
+    background-color: #f8f8ef;
+    color: #86001d;
+    padding: 24px;
+}
+body{
+    font-size: 1rem;
+    line-height: 1.6rem;
+    margin: 0;
+}
+
+h1{
+    font-size:2.5rem;
+    color: #86001d;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+h2{
+    font-size:1.75rem;
+}
+h3{
+    font-size:1.25rem;
+}
+h3,h2{
+    color: #3E0019;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}  
+
+main{
+    width: 900px;
+    max-width: 10em;
+    margin: auto;
+    padding: 16px;
+}
+nav{
+    text-decoration: none;
+    color: #86001d;
+}
+nav:hover, a:hover{
+    color: #db2b51;
+    padding: 8px;
+    border-radius: 6px;
+    list-style: none;
+    }
+
+ul{
+    width: 100%;
+    border-radius: 1px;
+    border-collapse: collapse;
+}
+th, td{
+        
+    font-style: bold;
+}
+th{
+    color: #db2b51;
+}
+input, select, textarea{
+    width: 100%;
+    padding: 10px;
+    margin: 14px;
+}
+
+
+
+
+
+
+
+
